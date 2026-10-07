@@ -133,7 +133,7 @@ combat mechanics, UI architecture, and data-driven game design.
 - Mobile applications
 
 ### Junior Programmer
-**PJR Square Co., Ltd.**
+**Pi R Square Co., Ltd.**
 
 - Mobile game development
 - Game team development
